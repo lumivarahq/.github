@@ -32,6 +32,7 @@ Our MIT-licensed tooling is published under the founder's handle,
 [abap-mcp-vscode](https://github.com/palimkarakshay/abap-mcp-vscode) ·
 [abap-adt-mcp](https://github.com/palimkarakshay/abap-adt-mcp)) and
 [mcp-kit](https://github.com/palimkarakshay/mcp-kit), a production-grade MCP server starter.
+Several are listed on [dotabap.org](https://dotabap.org), the ABAP open-source index.
 Product repos in this org are private.
 
 ### Building with
